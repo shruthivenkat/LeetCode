@@ -1,4 +1,4 @@
-# 144. Binary Tree Postorder Traversal
+# 145. Binary Tree Postorder Traversal
 
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
